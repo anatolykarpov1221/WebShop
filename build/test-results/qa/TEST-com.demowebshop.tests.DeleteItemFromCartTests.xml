@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.demowebshop.tests.DeleteItemFromCartTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-14T19:30:43" hostname="MacBook-Air-Olesia.local" time="10.44">
+  <properties/>
+  <testcase name="deleteTests" classname="com.demowebshop.tests.DeleteItemFromCartTests" time="10.44"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

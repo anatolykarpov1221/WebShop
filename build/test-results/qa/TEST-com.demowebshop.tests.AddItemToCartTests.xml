@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.demowebshop.tests.AddItemToCartTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-14T19:30:28" hostname="MacBook-Air-Olesia.local" time="0.632">
+  <properties/>
+  <testcase name="addItemToCart" classname="com.demowebshop.tests.AddItemToCartTests" time="0.632"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
